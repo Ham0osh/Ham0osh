@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ham0osh
 - 👀 I’m interested in physics, photography, hikking and skiing.
-- 🌱 I’m currently learning ML for data analysis, embedded programming for esp32, and thermal energy storage.
+- 🌱 I’m currently learning ML for data analysis, embedded programming on esp32 controllers, and thermal energy storage.
 
 <!---
 Ham0osh/Ham0osh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

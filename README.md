@@ -18,6 +18,8 @@
   <a href="https://www.indesign.com/en" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="indesign" width="40" height="40"/> </a>
   <a href="https://affinity.serif.com/en-gb/" target="_blank"> <img src="https://raw.githubusercontent.com/Ham0osh/Ham0osh/299873910c1099af25ce77e2cc04a4947bbf36f5/cdnlogo_affinity.svg" alt="Affinity Design Suite" width="40" height="40"/> </a>
 </p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ham0osh&show_icons=true&locale=en&layout=compact" alt="ham0osh" /></p>
 <!---
 Ham0osh/Ham0osh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

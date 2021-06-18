@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ham0osh 
+- 👋 Hi, I’m @Ham0osh,
 - 🟦 You can find me on [LinkedIn](https://linkedin.com/in/hamish-johnson-1ee7)
 - 👀 I’m interested in physics, photography, hikking and skiing.
 - 🌱 I’m currently learning ML for data analysis, embedded programming on esp32 controllers, django, and thermal energy storage...

@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ham0osh,
 - 🟦 You can find me on [LinkedIn](https://linkedin.com/in/hamish-johnson-1ee7)
-- 👀 I’m interested in physics, photography, hikking and skiing.
-- 🌱 I’m currently learning ML for data analysis, embedded programming on esp32 controllers, and applied quantum information science!
+- 👀 I’m interested in physics, photography, hiking and skiing.
+- 🌱 I’m currently learning ML for data analysis, embedded programming on esp32, and applied quantum info. science!
 - 😁 I love astroparticle neutrino physics, experimental quantum computation and iterative design tools...
-- 🌴 And using numpy, matplotlib, and scipy in Python3 for research.
+- 🌴 And using NumPy, matplotlib, and SciPy in Python3 for research.
 
 ---
 
